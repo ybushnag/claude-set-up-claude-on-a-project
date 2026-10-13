@@ -30,4 +30,3 @@ This is a Node.js Express API project used for Claude Code training.
 - Do not expose credentials, tokens, or secrets.
 - Run relevant tests after approved code changes.
 - Keep changes small and focused.
-  
